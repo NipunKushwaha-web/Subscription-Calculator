@@ -1,15 +1,15 @@
 # 💸 Subscription Calculator
 
-<img width="1902" height="972" alt="image" src="https://github.com/user-attachments/assets/aae9aad6-460a-4dca-83ae-46e88579ca2b" />
+<img width="1902" height="972" alt="image" src="https://github.com/user-attachments/assets/4b7cae63-570b-43b3-84a8-7ac6ba268aa6" />
 
-![Live Demo](https://subscription-cal.netlify.app/)
+![Live Demo](https://img.shields.io/badge/Live_Demo-Available-success?style=for-the-badge&logo=netlify)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 A sleek, responsive web application designed to help users calculate, track, and manage their recurring subscriptions in one place. Built with performance and usability in mind.
 
-🔗 **Live Demo:** [Subscription Calculator on Netlify](https://subscription-cal.netlify.app/)
+🔗 **Live Demo:** https://subscription-cal.netlify.app/
 
 ## ✨ Features
 
